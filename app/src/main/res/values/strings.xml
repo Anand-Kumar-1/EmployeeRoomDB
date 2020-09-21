@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EmployeeRoomDB</string>
+    <string name="Welcome">WELCOME</string>
+    <string name="Employee_Details">Employee Details</string>
+    <string name="Add__Details">Add Details</string>
+    <string name="Retrive_List">Retrive List</string>
+    <string name="EmployeeName">Employee Name</string>
+    <string name="Employee_Contact">Contact</string>
+    <string name="Employee_Email">Email\\</string>
+    <string name="Employee_EmailId">Email ID</string>
+    <string name="Employee_Details_Text">Enter The Employee Details</string>
+    <string name="save">Save</string>
+    <string name="Name">Name</string>
+    <string name="Contact" />
+</resources>
